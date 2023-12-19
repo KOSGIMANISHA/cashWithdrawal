@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.card-list-container {
+  display: flex;
+  list-style-type: none;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.btn {
+  padding: 10px;
+  height: auto;
+  width: 300px;
+  background-color: #382f5a;
+  color: #c4c4c4;
+  font-weight: bolder;
+  border: 1px solid #c4c4c4;
+  border-radius: 5px;
+  margin: 10px;
+  font-size: 30px;
+}
